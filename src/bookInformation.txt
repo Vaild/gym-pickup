@@ -1,0 +1,9 @@
+{
+    'username': '学号',
+    'password': '统一验证密码',
+    'gym': "风雨操场", # 健身房, 乒乓球, 风雨操场, 篮球馆, 排球馆, 羽毛球馆, 游泳馆浅水, 游泳馆深水
+    'booktime': "14",
+    'season': "winter",  # summer or winter
+    'schedule': False,  # 是不是进行定时任务
+    'authCodeWaitTime': 3.5   # 验证码识别后阻塞的时间
+}
